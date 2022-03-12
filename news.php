@@ -119,7 +119,7 @@ a:hover::after {
     <li><a href="command.php" class="aaa">コマンド紹介</a></li>
     <li><a href="news.php" class="aaa">最新情報</a></li>
     <li><a href="index.php" class="aaa">HOME</a></li>
-    <li><a href="browser.php" class="aaa">botの規約</a></li>
+    <li><a href="kiyaku.php" class="aaa">botの規約</a></li>
     <li><a href="otoiawase.php" class="aaa">botの使い方など</a></li>
   </ul>
 </nav>
