@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic" />
 <head>
 <meta charset="UTF-8">
-<title>news</title>
+<title>使い方</title>
 <link rel="icon" type="image/png" href="https://www.pngall.com/wp-content/uploads/4/Cyber-Security-Logo-PNG.png">
 <style>
 body {
