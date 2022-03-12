@@ -7,7 +7,7 @@
 <style>
 body {
   text-align:center;
-  background-image: url("back.png");
+  background-image: url("https://github.com/zearakun/zearaprogram/blob/main/back.png?raw=true");
   background-size: cover;
   overflow-y: scroll; 
      }
