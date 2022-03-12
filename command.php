@@ -128,8 +128,19 @@ a:hover::after {
 
 
 <h3>
-楽しいdiscordLifeを送る！
-  
+楽しいdiscordLifeを作る。<br>
+command一覧です<br>
+<h4>
+一般コマンド:<br>
+wiki join leave stop<br>
+securityコマンド:<br>
+kick,ban<br>
+ownerコマンド:<br>
+gban gunban eval jsk<br>
+message manage:<br>
+10秒間に5回メッセージを送信するとメッセージが削除されます<br>
+ngwordを送ると消されます<br>
+<h4><br>
 <a href="https://twitter.com/intent/tweet?hashtags=@Za_pythonのpython生活,Za,zeara,zearachat&text=@Za_pythonさんが作ったそうです!!!&url=https://zearachat.herokuapp.com/signup_user_complete/?id=d7kbsjsbstn5xxr6abhec36o7a" target="_blank">ツイートする</a>
 </h3>
 <br>
