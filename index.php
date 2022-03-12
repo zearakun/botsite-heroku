@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>ホーム</title>
+<link rel="icon" type="image/png" href="https://www.pngall.com/wp-content/uploads/4/Cyber-Security-Logo-PNG.png">
 <style>
 body {
   text-align:center;
