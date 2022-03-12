@@ -1,5 +1,5 @@
 <html lang="ja">
-  
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic" />
 <head>
 <meta charset="UTF-8">
 <title>ホーム</title>
